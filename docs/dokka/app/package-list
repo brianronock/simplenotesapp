@@ -1,0 +1,70 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.simplenotesapp.data////PointingToDeclaration/app/com.example.simplenotesapp.data/index.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao///PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/index.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/deleteNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/delete-note.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/getActiveNotes/#/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/get-active-notes.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/getAllNotes/#/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/get-all-notes.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/getDeletedNotes/#/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/get-deleted-notes.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/insertNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/insert-note.html
+$dokka.location:com.example.simplenotesapp.data/NoteDao/updateNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-dao/update-note.html
+$dokka.location:com.example.simplenotesapp.data/NoteDatabase.Companion///PointingToDeclaration/app/com.example.simplenotesapp.data/-note-database/-companion/index.html
+$dokka.location:com.example.simplenotesapp.data/NoteDatabase.Companion/getDatabase/#android.content.Context/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-database/-companion/get-database.html
+$dokka.location:com.example.simplenotesapp.data/NoteDatabase///PointingToDeclaration/app/com.example.simplenotesapp.data/-note-database/index.html
+$dokka.location:com.example.simplenotesapp.data/NoteDatabase/NoteDatabase/#/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-database/-note-database.html
+$dokka.location:com.example.simplenotesapp.data/NoteDatabase/noteDao/#/PointingToDeclaration/app/com.example.simplenotesapp.data/-note-database/note-dao.html
+$dokka.location:com.example.simplenotesapp.model////PointingToDeclaration/app/com.example.simplenotesapp.model/index.html
+$dokka.location:com.example.simplenotesapp.model/Note///PointingToDeclaration/app/com.example.simplenotesapp.model/-note/index.html
+$dokka.location:com.example.simplenotesapp.model/Note/Note/#kotlin.Int#kotlin.String#kotlin.String#kotlin.Long#kotlin.Boolean/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/-note.html
+$dokka.location:com.example.simplenotesapp.model/Note/content/#/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/content.html
+$dokka.location:com.example.simplenotesapp.model/Note/id/#/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/id.html
+$dokka.location:com.example.simplenotesapp.model/Note/isDeleted/#/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/is-deleted.html
+$dokka.location:com.example.simplenotesapp.model/Note/timestamp/#/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/timestamp.html
+$dokka.location:com.example.simplenotesapp.model/Note/title/#/PointingToDeclaration/app/com.example.simplenotesapp.model/-note/title.html
+$dokka.location:com.example.simplenotesapp.screen////PointingToDeclaration/app/com.example.simplenotesapp.screen/index.html
+$dokka.location:com.example.simplenotesapp.screen//AddNoteScreen/#androidx.navigation.NavController#com.example.simplenotesapp.viewmodel.NoteViewModel/PointingToDeclaration/app/com.example.simplenotesapp.screen/-add-note-screen.html
+$dokka.location:com.example.simplenotesapp.screen//DrawerItem/#kotlin.String#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.simplenotesapp.screen/-drawer-item.html
+$dokka.location:com.example.simplenotesapp.screen//NoteItem/#com.example.simplenotesapp.model.Note#kotlin.Function0[kotlin.Unit]#kotlin.Function0[kotlin.Unit]?/PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-item.html
+$dokka.location:com.example.simplenotesapp.screen//NoteListScreen/#androidx.navigation.NavController#com.example.simplenotesapp.viewmodel.NoteViewModel#com.example.simplenotesapp.viewmodel.ThemeViewModel/PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-list-screen.html
+$dokka.location:com.example.simplenotesapp.screen//SplashScreen/#androidx.navigation.NavController/PointingToDeclaration/app/com.example.simplenotesapp.screen/-splash-screen.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen.ACTIVE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}app/com.example.simplenotesapp.screen/-note-screen/-a-c-t-i-v-e/index.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen.DELETED///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}app/com.example.simplenotesapp.screen/-note-screen/-d-e-l-e-t-e-d/index.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen///PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-screen/index.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen/entries/#/PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-screen/entries.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen/valueOf/#kotlin.String/PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-screen/value-of.html
+$dokka.location:com.example.simplenotesapp.screen/NoteScreen/values/#/PointingToDeclaration/app/com.example.simplenotesapp.screen/-note-screen/values.html
+$dokka.location:com.example.simplenotesapp.ui.theme////PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/index.html
+$dokka.location:com.example.simplenotesapp.ui.theme//Pink40/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-pink40.html
+$dokka.location:com.example.simplenotesapp.ui.theme//Pink80/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-pink80.html
+$dokka.location:com.example.simplenotesapp.ui.theme//Purple40/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-purple40.html
+$dokka.location:com.example.simplenotesapp.ui.theme//Purple80/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-purple80.html
+$dokka.location:com.example.simplenotesapp.ui.theme//PurpleGrey40/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-purple-grey40.html
+$dokka.location:com.example.simplenotesapp.ui.theme//PurpleGrey80/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-purple-grey80.html
+$dokka.location:com.example.simplenotesapp.ui.theme//SimpleNotesAppTheme/#kotlin.Boolean#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-simple-notes-app-theme.html
+$dokka.location:com.example.simplenotesapp.ui.theme//Typography/#/PointingToDeclaration/app/com.example.simplenotesapp.ui.theme/-typography.html
+$dokka.location:com.example.simplenotesapp.viewmodel////PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/index.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel///PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/index.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/NoteViewModel/#com.example.simplenotesapp.data.NoteDao/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/-note-view-model.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/deleteNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/delete-note.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/insertNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/insert-note.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/loadNotes/#kotlin.Boolean/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/load-notes.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/notes/#/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/notes.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/restoreNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/restore-note.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModel/softDeleteNote/#com.example.simplenotesapp.model.Note/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model/soft-delete-note.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModelFactory///PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model-factory/index.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModelFactory/NoteViewModelFactory/#com.example.simplenotesapp.data.NoteDao/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model-factory/-note-view-model-factory.html
+$dokka.location:com.example.simplenotesapp.viewmodel/NoteViewModelFactory/create/#java.lang.Class[TypeParam(bounds=[androidx.lifecycle.ViewModel])]/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-note-view-model-factory/create.html
+$dokka.location:com.example.simplenotesapp.viewmodel/ThemeViewModel///PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-theme-view-model/index.html
+$dokka.location:com.example.simplenotesapp.viewmodel/ThemeViewModel/ThemeViewModel/#/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-theme-view-model/-theme-view-model.html
+$dokka.location:com.example.simplenotesapp.viewmodel/ThemeViewModel/isDarkTheme/#/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-theme-view-model/is-dark-theme.html
+$dokka.location:com.example.simplenotesapp.viewmodel/ThemeViewModel/toggleTheme/#/PointingToDeclaration/app/com.example.simplenotesapp.viewmodel/-theme-view-model/toggle-theme.html
+$dokka.location:com.example.simplenotesapp////PointingToDeclaration/app/com.example.simplenotesapp/index.html
+$dokka.location:com.example.simplenotesapp/MainActivity///PointingToDeclaration/app/com.example.simplenotesapp/-main-activity/index.html
+$dokka.location:com.example.simplenotesapp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.simplenotesapp/-main-activity/-main-activity.html
+com.example.simplenotesapp
+com.example.simplenotesapp.data
+com.example.simplenotesapp.model
+com.example.simplenotesapp.screen
+com.example.simplenotesapp.ui.theme
+com.example.simplenotesapp.viewmodel
+
